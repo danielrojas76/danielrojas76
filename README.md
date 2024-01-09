@@ -2,6 +2,7 @@
 - 👀 Mi interes principal es reforzar mi mindset agil para adaptarme al futuro.
 - 🌱 Estudiante de Programación Web (ARG)
 - 📫 Me pueden contactar en cdrojas.2018@gmail.com
+- 💼 Portfolio: https://daniel-rojas.tech/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rojas-51356919b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_codedan) 
